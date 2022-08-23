@@ -18,7 +18,6 @@ public class homepage {
     public WebElement getLogin (){
         return driver.findElement(login);
     }
-
     By createAnAccountLinkContent= By.xpath("/html/body/div[1]/div[3]/div[4]/div/a");
     public WebElement createAnAccountLinkContent(){
         return driver.findElement(createAnAccountLinkContent);
