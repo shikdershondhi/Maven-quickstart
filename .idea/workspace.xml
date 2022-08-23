@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c36546a0-a7c4-4c01-b79f-5b6d7bc6fc99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Maven/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/Sign_in_Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/homepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/resources/base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/resources/data.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/Maven/AppTest.java" afterDir="false" />
+    <list default="true" id="c36546a0-a7c4-4c01-b79f-5b6d7bc6fc99" name="Changes" comment="base1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +46,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "xpath.settings"
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -95,26 +83,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTest" type="TestNG" nameIsGenerated="true">
       <module name="Maven-quickstart" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="resources.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="org.Maven" />
       <option name="MAIN_CLASS_NAME" value="org.Maven.AppTest" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.AppTest" />
+      <item itemvalue="TestNG.AppTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.AppTest" />
         <item itemvalue="Application.App" />
         <item itemvalue="JUnit.AppTest" />
       </list>
@@ -133,8 +136,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661235809215</updated>
-      <workItem from="1661235810630" duration="16914000" />
+      <workItem from="1661235810630" duration="18423000" />
     </task>
+    <task id="LOCAL-00001" summary="base1">
+      <created>1661255208316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661255208316</updated>
+    </task>
+    <task id="LOCAL-00002" summary="base1">
+      <created>1661255232613</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661255232613</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +171,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="base1" />
+    <option name="LAST_COMMIT_MESSAGE" value="base1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
